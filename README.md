@@ -3,12 +3,12 @@ PY1010-1 24H Grunnleggende programmering med Python
 
 Dette er readme-filen til repo-en py1010
 
-I folder arbeidskrav1 ligger filen totalkostnader_for_bil_01.py. Dette er svaret på oppgaven med innlevering Frist: fr. 8. nov. 2024 21.00
-I folder Arbeidskrav2 ligger ligger filen py1010_Arbeidskrav2.ipynb. Dette er svaret på oppgaven med innlevering Frist: fr. 17. jan. 2025 21.00
+**I folder arbeidskrav1 ligger filen totalkostnader_for_bil_01.py. Dette er svaret på oppgaven med innlevering Frist: fr. 8. nov. 2024 21.00
+I folder Arbeidskrav2 ligger ligger filen py1010_Arbeidskrav2.ipynb. Dette er svaret på oppgaven med innlevering Frist: fr. 17. jan. 2025 21.00**
 
 
 
-Arbeidskrav 1 Oppgave
+**Arbeidskrav 1 Oppgave**
 
 Anta at du skal kjøpe bil. Det står mellom elbil og bensinbil, og du ønsker å sammenlikne de årlige kostnadene ved elbil sammenliknet med bensinbil.
 
@@ -23,4 +23,4 @@ Drivstoffbruk: Elbil: 0,2 kWh/km. Strømpris (antar kun hjemmelading): 2.00 kr/k
 Bomavgift: Elbil: 0,1 kr/km. Bensinbil: 0,3 kr/km.
 
 
-Arbeidskrav Oppgave ligger som Markdown i fila som leveres.
+**Arbeidskrav 2 Oppgave ligger som Markdown i fila som leveres.**
